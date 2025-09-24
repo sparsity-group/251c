@@ -5,16 +5,18 @@ title: Home
 
 # Course Information
 
-**Lectures:** Tuesdays/Thursdays at 09:30 – 10:50 in Jacobs Hall (EBU1), Room 2315
+**Lectures:** Tuesdays/Thursdays 09:30–10:50 in Jacobs Hall (EBU1), Room 2315
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
-**Office Hours:** Fridays at 16:00 - 17:30  
+**Office Hours:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00 in Jacobs Hall, Room 6406  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00 in Jacobs Hall, Room 6406  
 **Office:** Jacobs Hall, Room 6406
 
-**TA:** Prabhav Gaur (<pgaur@ucsd.edu>)  
+**TA:** Anıl Kamber (<akamber@ucsd.edu>)  
 **Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 14:00 - 15:00 in Jacobs Hall, Room 4506  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fridays at 11:00 - 12:00 on Zoom (<https://ucsd.zoom.us/j/97267357377>)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesdays at 13:00 – 14:00 in Jacobs Hall, Room 4516  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 13:00 – 14:00 in Jacobs Hall, Room 4516  
 
 **Canvas:** <https://canvas.ucsd.edu/courses/60446>  
 **Piazza:** <https://piazza.com/class/m1h2zt7j8si5u3>
@@ -26,17 +28,26 @@ undergraduate level in both the discrete-time and continuous-time settings such
 as stability, convolutions, sampling, and aliasing. On the discrete-time side,
 familiarity with z-transforms, discrete-time Fourier transforms, discrete
 Fourier transforms, finite-impulse response filters, and infinite-impulse
-response filters is expected. On the continuous-time side, familiarity with
+response filters is expected.  On the continuous-time side, familiarity with
 continuous-time Fourier transforms and Fourier series is expected. For the
-homework and project, familiarity with MATLAB or Python will be useful. At UCSD,
-the prerequisite material is covered in ECE 101 and ECE 161A.
+project, familiarity with MATLAB or Python may be useful.
+
 
 # Course Grade
 
-The course grade will be based on an in-class midterm **(30%)** and a project
-**(70%)**. Homeworks (and solutions) will be handed out periodically, but will
-not be collected. It is suggested that you complete the homework assignments to
-prepare for the midterm.
+The course grade will be determined by
+    * Three in-class quizzes (30%)
+        - October 9, 2025 (10%)
+        - October 23, 2025 (10%)
+        - November 6, 2025 (10%)
+    * In-class midterm exam (30%) on November 25, 2025
+    * Project (40%)
+        - Group Selection (1–3 students per group) due October 10, 2025 at 23:55
+        - Project Proposal due October 24, 2025 at 23:55
+        - Project Presentation
+            * In-class during the last week of classes (December 2 and 4, 2025), OR
+            * Upload recording of presentation by December 1, 2025 at 23:55
+        - Project Report due December 11, 2025 at 23:55
 
 # Academic Integrity
 
