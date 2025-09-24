@@ -9,14 +9,15 @@ title: Home
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00 in Jacobs Hall, Room 6406  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00 in Jacobs Hall, Room 6406  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00  
 **Office:** Jacobs Hall, Room 6406
 
 **TA:** Anıl Kamber (<akamber@ucsd.edu>)  
 **Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesdays at 13:00 – 14:00 in Jacobs Hall, Room 4516  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 13:00 – 14:00 in Jacobs Hall, Room 4516  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesdays at 13:00 – 14:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 13:00 – 14:00  
+**Office:** Jacobs Hall, Room 4516
 
 **Canvas:** <https://canvas.ucsd.edu/courses/68562>  
 **Piazza:** <https://piazza.com/class/mfxhmd49cq35q>
