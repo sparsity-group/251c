@@ -18,8 +18,8 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesdays at 13:00 – 14:00 in Jacobs Hall, Room 4516  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 13:00 – 14:00 in Jacobs Hall, Room 4516  
 
-**Canvas:** <https://canvas.ucsd.edu/courses/60446>  
-**Piazza:** <https://piazza.com/class/m1h2zt7j8si5u3>
+**Canvas:** <https://canvas.ucsd.edu/courses/68562>  
+**Piazza:** <https://piazza.com/class/mfxhmd49cq35q>
 
 # Prerequisites
 
@@ -36,18 +36,18 @@ project, familiarity with MATLAB or Python may be useful.
 # Course Grade
 
 The course grade will be determined by
-    * Three in-class quizzes (30%)
-        - October 9, 2025 (10%)
-        - October 23, 2025 (10%)
-        - November 6, 2025 (10%)
-    * In-class midterm exam (30%) on November 25, 2025
-    * Project (40%)
-        - Group Selection (1–3 students per group) due October 10, 2025 at 23:55
-        - Project Proposal due October 24, 2025 at 23:55
-        - Project Presentation
-            * In-class during the last week of classes (December 2 and 4, 2025), OR
-            * Upload recording of presentation by December 1, 2025 at 23:55
-        - Project Report due December 11, 2025 at 23:55
+* Three in-class quizzes (30%)
+    - October 9, 2025 (10%)
+    - October 23, 2025 (10%)
+    - November 6, 2025 (10%)
+* In-class midterm exam (30%) on November 25, 2025
+* Project (40%)
+    - Group Selection (1–3 students per group) due October 10, 2025 at 23:55
+    - Project Proposal due October 24, 2025 at 23:55
+    - Project Presentation
+        * In-class during the last week of classes (December 2 and 4, 2025), OR
+        * Upload recording of presentation by December 1, 2025 at 23:55
+    - Project Report due December 11, 2025 at 23:55
 
 # Academic Integrity
 
