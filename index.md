@@ -7,6 +7,8 @@ title: Home
 
 **Lectures:** Tuesdays/Thursdays 09:30–10:50 in Jacobs Hall (EBU1), Room 2315
 
+**Syllabus:** [on Canvas](https://canvas.ucsd.edu/courses/68562/files?preview=16027739)
+
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office Hours:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00  
