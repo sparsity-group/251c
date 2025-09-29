@@ -50,7 +50,7 @@ The course grade will be determined by
     - Project Presentation
         * In-class during the last week of classes (December 2 and 4, 2025), OR
         * Upload recording of presentation by December 1, 2025 at 23:55
-    - Project Report due December 11, 2025 at 23:55
+    - Project Report and Presentation Slides due December 11, 2025 at 23:55
 
 # Academic Integrity
 
