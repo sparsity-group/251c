@@ -11,7 +11,7 @@ title: Home
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 17:00 – 18:00  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fridays at 16:00 – 17:00  
 **Office:** Jacobs Hall, Room 6406
 
