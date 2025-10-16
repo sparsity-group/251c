@@ -7,7 +7,7 @@ title: Home
 
 **Lectures:** Tuesdays/Thursdays 09:30–10:50 in Jacobs Hall (EBU1), Room 2315
 
-**Syllabus:** [on Canvas](https://canvas.ucsd.edu/courses/68562/files?preview=16143447)
+**Syllabus:** [**on Canvas**](https://canvas.ucsd.edu/courses/68562/files?preview=16238712)
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office Hours:**  
@@ -46,7 +46,7 @@ The course grade will be determined by
 * In-class midterm exam (30%) on November 25, 2025
 * Project (40%)
     - Group Selection (1–3 students per group) due October 10, 2025 at 23:55
-    - Project Proposal due October 24, 2025 at 23:55
+    - Project Proposal due November 1, 2025 at 23:55
     - Project Presentation
         * In-class during the last week of classes (December 2 and 4, 2025), OR
         * Upload recording of presentation by December 1, 2025 at 23:55
