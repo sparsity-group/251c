@@ -1,7 +1,7 @@
 ---
 type: exam
-date: 2025-11-25T09:30
-description: Midterm Exam
+date: 2026-12-03T14:00
+description: Final Exam
 hide_from_announcments: true
 ---
 

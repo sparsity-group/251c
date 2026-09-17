@@ -5,52 +5,39 @@ title: Home
 
 # Course Information
 
-**Lectures:** Tuesdays/Thursdays 09:30–10:50 in Jacobs Hall (EBU1), Room 2315
+**Lectures:** Tuesdays/Thursdays 14:00 – 15:20 in Coalition Building, Room B26
 
 **Syllabus:** [**on Canvas**](https://canvas.ucsd.edu/courses/68562/files?preview=16238712)
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 17:00 – 18:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fridays at 16:00 – 17:00  
 **Office:** Jacobs Hall, Room 6406
 
-**TA:** Anıl Kamber (<akamber@ucsd.edu>)  
+**TA:** Soroush Mesforush Mashhad (<smesforushmashhad@ucsd.edu>)  
 **Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesdays at 11:00 – 12:00  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 11:00 – 12:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TBD  
 **Office:** Jacobs Hall, Room 4516
 
-**Canvas:** <https://canvas.ucsd.edu/courses/68562>  
-**Piazza:** <https://piazza.com/class/mfxhmd49cq35q>
+**Canvas:** <https://canvas.ucsd.edu/courses/77849>  
+**Piazza:** <https://piazza.com/class/mu61t7nl75b5oy>
 
 # Prerequisites
 
-This course assumes familiarity with core signal-processing concepts at the
-undergraduate level in both the discrete-time and continuous-time settings such
-as stability, convolutions, sampling, and aliasing. On the discrete-time side,
-familiarity with z-transforms, discrete-time Fourier transforms, discrete
-Fourier transforms, finite-impulse response filters, and infinite-impulse
-response filters is expected.  On the continuous-time side, familiarity with
-continuous-time Fourier transforms and Fourier series is expected. For the
-project, familiarity with MATLAB or Python may be useful.
-
+This course assumes familiarity with core Fourier analysis and signal-processing
+concepts at the undergraduate level in both discrete and continuous settings.
+Background in linear algebra and probability will also be useful.
 
 # Course Grade
 
 The course grade will be determined by
-* Three in-class quizzes (30%)
-    - October 9, 2025 (10%)
-    - October 23, 2025 (10%)
-    - November 6, 2025 (10%)
-* In-class midterm exam (30%) on November 25, 2025
-* Project (40%)
-    - Group Selection (1–3 students per group) due October 10, 2025 at 23:55
-    - Project Proposal due November 1, 2025 at 23:55
-    - Project Presentation
-        * In-class during the last week of classes (December 2 and 4, 2025), OR
-        * Upload recording of presentation by December 1, 2025 at 23:55
-    - Project Report and Presentation Slides due December 11, 2025 at 23:55
+* Four in-class quizzes (40%)
+    - October 6, 2026 (10%)
+    - October 20, 2026 (10%)
+    - November 3, 2026 (10%)
+    - November 17, 2026 (10%)
+* In-class final exam (60%) on December 3, 2026
 
 # Academic Integrity
 
