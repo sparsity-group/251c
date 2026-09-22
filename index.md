@@ -15,7 +15,7 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fridays at 16:00 – 17:00  
 **Office:** Jacobs Hall, Room 6406
 
-**TA:** Soroush Mesforush Mashhad (<smesforushmashhad@ucsd.edu>)  
+**TA:** Soroush Mesforush (<smesforushmashhad@ucsd.edu>)  
 **Office Hours:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TBD  
 **Office:** Jacobs Hall, Room 4516
