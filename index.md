@@ -32,11 +32,12 @@ Background in linear algebra and probability will also be useful.
 # Course Grade
 
 The course grade will be determined by
+* Four homework assignments (2.5% each, 10% total)
 * Four in-class quizzes (40%)
-    - October 6, 2026 (10%)
-    - October 20, 2026 (10%)
-    - November 3, 2026 (10%)
-    - November 17, 2026 (10%)
+    - October 6, 2026 (7.5%)
+    - October 20, 2026 (7.5%)
+    - November 3, 2026 (7.5%)
+    - November 17, 2026 (7.5%)
 * In-class final exam (60%) on December 3, 2026
 
 # Academic Integrity
