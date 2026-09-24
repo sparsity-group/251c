@@ -38,7 +38,7 @@ The course grade will be determined by
     - October 20, 2026 (7.5%)
     - November 3, 2026 (7.5%)
     - November 17, 2026 (7.5%)
-* In-class final exam (60%) on December 3, 2026
+* Final exam (60%) on December 10, 2026 from 15:00 - 17:59 in Coalition Building, Room B26
 
 # Academic Integrity
 
