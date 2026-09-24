@@ -7,8 +7,6 @@ title: Home
 
 **Lectures:** Tuesdays/Thursdays 14:00 – 15:20 in Coalition Building, Room B26
 
-**Syllabus:** [**on Canvas**](https://canvas.ucsd.edu/courses/68562/files?preview=16238712)
-
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office Hours:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursdays at 16:00 – 17:00  
