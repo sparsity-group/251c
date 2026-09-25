@@ -15,7 +15,8 @@ title: Home
 
 **TA:** Soroush Mesforush (<smesforushmashhad@ucsd.edu>)  
 **Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TBD  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mondays at 16:00 – 17:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesdays at 11:00 – 12:00   
 **Office:** Jacobs Hall, Room 4516
 
 **Canvas:** <https://canvas.ucsd.edu/courses/77849>  
